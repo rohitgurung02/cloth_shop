@@ -133,7 +133,7 @@
   }
 
   .banner__content.banner__content--bottom-center {
-    align-items: flex-end;
+    align-items: center;
     justify-content: center;
   }
 
