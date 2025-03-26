@@ -138,7 +138,7 @@
       ],
       "settings": {
         "heading": "Back in stock!",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
