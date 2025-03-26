@@ -38,6 +38,7 @@
     "header": {
       "type": "header",
       "settings": {
+        "image": "shopify://shop_images/logo_2.png",
         "desktop_image_width": "small",
         "logo_position": "middle-left",
         "mobile_logo_position": "center",
