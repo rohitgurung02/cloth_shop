@@ -178,16 +178,8 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
+            "image": "shopify://shop_images/the-cut-logo2_180x_eb657194-39db-4604-852b-1c97f84255ce.webp",
+            "title": "",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
             "link": ""
@@ -196,8 +188,7 @@
       },
       "block_order": [
         "column1",
-        "column2",
-        "column3"
+        "column2"
       ],
       "settings": {
         "title": "",
