@@ -313,7 +313,7 @@ h2,
 @media only screen and (min-width: 750px) {
   h2,
   .h2 {
-    font-size: calc(var(--font-heading-scale) * 2.4rem);
+    font-size: calc(var(--font-heading-scale) * 1.8rem);
   }
 }
 
@@ -2092,7 +2092,7 @@ input[type='checkbox'] {
 /* utility-bar */
 .utility-bar {
   height: 100%;
-  background-color: #528a6f !important;
+  background-color: #fff !important;
 }
 
 .utility-bar--bottom-border {
@@ -2251,6 +2251,7 @@ input[type='checkbox'] {
   margin: 0;
   letter-spacing: 0.1rem;
   min-height: 3.8rem;
+  color: #000;
 }
 
 .announcement-bar-slider--fade-in-next .announcement-bar__message,

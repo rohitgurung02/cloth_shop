@@ -408,6 +408,41 @@
       ]
     },
     {
+      "type": "text",
+      "name": "t:sections.image-with-text.blocks.text.name",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "inline_richtext",
+          "id": "heading",
+          "default": "t:sections.image-banner.blocks.heading.settings.heading.default",
+          "label": "t:sections.image-banner.blocks.heading.settings.heading.label"
+        },
+        {
+          "type": "richtext",
+          "id": "text",
+          "default": "t:sections.rich-text.blocks.text.settings.text.default",
+          "label": "t:sections.rich-text.blocks.text.settings.text.label"
+        },
+        {
+          "type": "select",
+          "id": "text_style",
+          "options": [
+            {
+              "value": "body",
+              "label": "t:sections.image-with-text.blocks.text.settings.text_style.options__1.label"
+            },
+            {
+              "value": "subtitle",
+              "label": "t:sections.image-with-text.blocks.text.settings.text_style.options__2.label"
+            }
+          ],
+          "default": "body",
+          "label": "t:sections.image-with-text.blocks.text.settings.text_style.label"
+        }
+      ]
+    },
+    {
       "type": "buttons",
       "name": "t:sections.image-banner.blocks.buttons.name",
       "limit": 1,
@@ -465,6 +500,9 @@
       "blocks": [
         {
           "type": "heading"
+        },
+        {
+          "type": "text"
         },
         {
           "type": "buttons"
