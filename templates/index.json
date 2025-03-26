@@ -168,7 +168,8 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "image": "shopify://shop_images/Mlouye_Refinery_logo.png",
+            "title": "",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
             "link": ""
