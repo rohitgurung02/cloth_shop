@@ -38,7 +38,7 @@
         "brand_information_DeDJmn": {
           "type": "brand_information",
           "settings": {
-            "show_social": true
+            "show_social": false
           }
         }
       },
