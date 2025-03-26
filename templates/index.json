@@ -83,7 +83,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "all",
+        "collection": "mix-collection",
         "products_to_show": 8,
         "title": "",
         "heading_size": "h2",
