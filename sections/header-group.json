@@ -17,6 +17,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
+            "title": "Featured collection",
             "link": "",
             "heading_size": "h1"
           }
@@ -28,7 +29,7 @@
       "settings": {
         "auto_rotate": false,
         "change_slides_speed": 5,
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "show_line_separator": true,
         "show_social": false,
         "enable_country_selector": false,
