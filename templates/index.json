@@ -36,8 +36,10 @@
         "button"
       ],
       "settings": {
+        "image": "shopify://shop_images/141569803_417219312901458_4638470652865432174_n.webp",
+        "image_2": "shopify://shop_images/Shoes_and_bag.webp",
         "image_overlay_opacity": 40,
-        "image_height": "large",
+        "image_height": "medium",
         "image_behavior": "none",
         "desktop_content_position": "bottom-center",
         "desktop_content_alignment": "center",
